@@ -1,16 +1,29 @@
-### Hi there 👋
+<h2> Bem Vindos!</h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<!--
-**swaminobrega/swaminobrega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 Sobre mim </h3>
 
-Here are some ideas to get you started:
+- 🔭 &nbsp; Atualmente estou aprendendo Desenvolvimento Web
+- 🤔 &nbsp; Explorando tecnologias e desenvolvendo de software.
+- 🎓 &nbsp; Cursando 7 Edição do Programa FullStack Web Developer <Growdev>.
+- 💼 &nbsp; Front-end Web Developer.
+- 🌱 &nbsp; Entusiasta em aprender sempre!
+- ✍️ &nbsp; Lendo sempre sobre tendências em tecnologia.
+- ☕ &nbsp; Uma xícara de café é perfeito para começar o dia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Skills</h3>
+
+- 💻 &nbsp; Html | Java Script | CSS  
+- 🌐 &nbsp; Bootstrap 
+- 🛢 &nbsp; Xampp
+- 🔧 &nbsp; Visual Studio code | Git
+- 🖥 &nbsp; Corel Draw | Photoshop
+
+<br>
+
+<h3> 🤝🏻 Conecte-se comigo</h3>
+
+<p align="center">
+&nbsp; <a href="https://www.linkedin.com/in/swaminobrega" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:swaminobrega13@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
