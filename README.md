@@ -3,9 +3,9 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🔭 &nbsp; Atualmente estou aprendendo Desenvolvimento Web
+- 🔭 &nbsp; Aprendendo Sempre Desenvolvimento Web
 - 🤔 &nbsp; Explorando tecnologias e desenvolvendo de software.
-- 🎓 &nbsp; Cursando 7 Edição do Programa FullStack Web Developer <Growdev>.
+- 🎓 &nbsp; PosGraduando na Unopar em CIència de Dados.
 - 💼 &nbsp; Front-end Web Developer.
 - 🌱 &nbsp; Entusiasta em aprender sempre!
 - ✍️ &nbsp; Lendo sempre sobre tendências em tecnologia.
@@ -18,6 +18,7 @@
 - 🛢 &nbsp; Xampp
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Corel Draw | Photoshop
+- 💻 &nbsp; Phyton | PHP
 
 <br>
 
