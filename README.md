@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; Aprendendo Sempre Desenvolvimento Web
 - 🤔 &nbsp; Explorando tecnologias e desenvolvendo de software.
-- 🎓 &nbsp; PosGraduando na Unopar em CIència de Dados.
+- 🎓 &nbsp; Pos Graduando na Unopar em Ciência de Dados.
 - 💼 &nbsp; Front-end Web Developer.
 - 🌱 &nbsp; Entusiasta em aprender sempre!
 - ✍️ &nbsp; Lendo sempre sobre tendências em tecnologia.
