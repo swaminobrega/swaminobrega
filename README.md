@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">💻 Sou Gestor de TI com mais de 10 anos de experiência na área de tecnologia, Migrando para área de Engenharia de dados.</p>
+<p align="center">💻 Sou Gestor de TI com mais de 10 anos de experiência na área de tecnologia, Migrando para área de Desenvolvimento/ Dados.</p>
 
 ###
 
