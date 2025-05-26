@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">💻 Sou Gestor de TI com mais de 10 anos de experiência na área de tecnologia.</p>
+<p align="center">💻 Sou Consultor em Tecnologia com mais de 10 anos de experiência na área de tecnologia.</p>
 
 ###
 
