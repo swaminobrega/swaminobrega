@@ -43,7 +43,6 @@ Conecte-se comigo abaixo!
 <img 
     align="left" 
     alt="Git" 
-
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
