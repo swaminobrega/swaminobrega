@@ -18,11 +18,12 @@
 
 <p align="center">Sou um profissional com mais de 10 anos de experiência em Gestão de TI, com forte atuação em governança, implantação de sistemas e análise de dados para tomada de decisão.
 
-📌 Interesse atual: Business Intelligence, automação de processos, consultoria tecnológica e dados aplicados à gestão.
+📌 Interesse: Banco de dados, Business Intelligence, Automação de processos, Consultoria tecnológica e dados aplicados à gestão.
 
-🔧 Tecnologias e ferramentas: Banco de dados, SQL, Power BI, Excel avançado, Python, Metodologias Ágeis.
+🔧 Tecnologias e ferramentas: SQL, Power BI, Excel avançado, Python.
 
-Aqui você encontra projetos que unem gestão, tecnologia e dados. Conecte-se comigo no [LinkedIn](https://linkedin.com/in/swaminobrega).
+Aqui você encontra projetos que unem gestão, tecnologia e dados.</br>
+Conecte-se comigo no [LinkedIn](https://linkedin.com/in/swaminobrega).
 </p>
 
 ###
