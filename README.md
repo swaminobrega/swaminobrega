@@ -1,50 +1,90 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/swaminobrega/" target="_blank">
+# 👩🏻‍💻 Swami Nobrega
+
+**`Consultor em tecnologia`**
+
+Sou um profissional com mais de 10 anos de experiência em Gestão de TI, com forte atuação em governança, implantação de sistemas e análise de dados para tomada de decisão. 
+</br>
+</br>
+📌 Interesse: Banco de dados, Business Intelligence, Automação de processos, Consultoria tecnológica e dados aplicados à gestão.
+</br>
+</br>
+Aqui você encontra projetos que unem gestão, tecnologia e dados.</br>
+Conecte-se comigo abaixo!
+
+<p align="left">
+     <a href="https://www.linkedin.com/in/swaminobrega/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="maito:nobrega.swami@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://whatsa.me/5548992102702/?t=Ol%C3%A1,%20pode%20deixar%20sua%20mensagem%20que%20posteriormente%20retorno!" target="_blank">
+   <a href="https://whatsa.me/5548992102702/?t=Ol%C3%A1,%20pode%20deixar%20sua%20mensagem%20que%20posteriormente%20retorno!" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
-</div>
-
-###
-
-<h1 align="center">Olá! Eu sou o Swami Nóbrega 👋</h1>
-
-###
-
-<p align="center">Sou um profissional com mais de 10 anos de experiência em Gestão de TI, com forte atuação em governança, implantação de sistemas e análise de dados para tomada de decisão.
-
-📌 Interesse: Banco de dados, Business Intelligence, Automação de processos, Consultoria tecnológica e dados aplicados à gestão.
-
-🔧 Tecnologias e ferramentas: SQL, Power BI, Excel avançado, Python.
-
-Aqui você encontra projetos que unem gestão, tecnologia e dados.</br>
-Conecte-se comigo no [LinkedIn](https://linkedin.com/in/swaminobrega).
 </p>
 
-###
+---
 
-<h3 align="center">🛠 Linguagem e Ferramentas</h3>
+### 🤖 Linguagens e Tecnologias
 
-###
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+  />
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;"
+    img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+    />
+ 
+<br/>
+<br/>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   Meu Status :</h3>
+### 📊 Estatísticas
 
 ###
 
