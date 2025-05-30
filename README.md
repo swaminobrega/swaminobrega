@@ -5,7 +5,7 @@
 Sou um profissional com mais de 10 anos de experiência em Gestão de TI, com forte atuação em governança, implantação de sistemas e análise de dados para tomada de decisão. 
 </br>
 </br>
-📌 Interesse: Banco de dados, Business Intelligence, Automação de processos, Consultoria tecnológica e dados aplicados à gestão.
+📌 Interesse: Desenvolvimento, Banco de dados e Análise de Dados.
 </br>
 </br>
 Aqui você encontra projetos que unem gestão, tecnologia e dados.</br>
