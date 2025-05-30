@@ -22,7 +22,7 @@ Conecte-se comigo abaixo!
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### ⚙️ Linguagens e Tecnologias
 
 <img 
     align="left" 
