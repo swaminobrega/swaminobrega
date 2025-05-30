@@ -8,7 +8,7 @@ Sou um profissional com mais de 10 anos de experiência em Gestão de TI, com fo
 📌 Interesse: Desenvolvimento, Banco de dados e Análise de Dados.
 </br>
 </br>
-Aqui você encontra projetos que unem gestão, tecnologia e dados.</br>
+Aqui você encontra projetos em tecnologia e dados.</br>
 Conecte-se comigo abaixo!
 
 <p align="left">
